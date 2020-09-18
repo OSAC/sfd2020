@@ -12,3 +12,4 @@ Check out more at <a href="http://softwarefreedomday.org"> Software Freedom Day<
 Name | Location 
 ------------ | ------- 
 Sandip Basnet| Charikot, Dolakha 
+Sambhav Bhurtel| Pokhara, Kaski 
