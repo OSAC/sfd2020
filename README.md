@@ -5,5 +5,5 @@
 </p>
 <b>Website for Software Freedom Day 2020</b><br>
 ***Organised by OSAC and ASCOL IT Club.***<br><br>
-Visit it at: http://osac.github.io/sfd-2020<br>
+Visit it at: https://osac.github.io/sfd-2020<br>
 Check out more at <a href="http://softwarefreedomday.org"> Software Freedom Day</a>.
