@@ -7,3 +7,8 @@
 ***Organised by OSAC and ASCOL IT Club.***<br><br>
 Visit it at: https://osac.github.io/sfd-2020<br>
 Check out more at <a href="http://softwarefreedomday.org"> Software Freedom Day</a>.
+
+## Attendees
+Name | Location 
+------------ | ------- 
+Sandip Basnet| Charikot, Dolakha 
