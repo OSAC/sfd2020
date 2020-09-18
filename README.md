@@ -1,6 +1,3 @@
-# Software FreeDom Day 2020 (ASCOL)
-Software  Freedom Day 2020 ASCOL Information Page.
-
 # Software FreeDom Day 2020 (ASCOL) <br>
 ***OSAC, Open Source ASCOL Cricle.***
 <p align="center">
